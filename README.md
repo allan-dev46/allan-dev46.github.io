@@ -46,7 +46,6 @@ Utilizar este currículo online como ponto central para:
 
 ## 📬 Contato
 
-- GitHub: https://github.com/Dougles46
 - LinkedIn: https://www.linkedin.com/in/allan-fernandes1/?profileId=ACoAAFYQLPcBwBqp3iDiMquE7yQhMiseNny-Ng4
 - Email: allanfersil@gmail.com
 
