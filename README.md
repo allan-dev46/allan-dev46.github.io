@@ -10,7 +10,7 @@ O objetivo deste projeto é apresentar de forma clara e acessível meu perfil pr
 
 O currículo pode ser acessado diretamente pelo link:
 
-👉 https://dougles46.github.io
+👉 https://allan-dev46.github.io
 
 ---
 
