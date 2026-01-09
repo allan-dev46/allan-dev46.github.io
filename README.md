@@ -25,7 +25,7 @@ Este projeto funciona como uma **vitrine profissional**, complementando meu GitH
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5  
 - CSS3  
@@ -34,7 +34,7 @@ Este projeto funciona como uma **vitrine profissional**, complementando meu GitH
 
 ---
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
 Utilizar este currículo online como ponto central para:
 - Apresentação profissional
@@ -44,11 +44,11 @@ Utilizar este currículo online como ponto central para:
 
 ---
 
-## 📬 Contato
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/allan-fernandes1/?profileId=ACoAAFYQLPcBwBqp3iDiMquE7yQhMiseNny-Ng4
 - Email: allanfersil@gmail.com
 
 ---
 
-📌 *Este repositório é atualizado conforme minha evolução profissional.*
+ *Este repositório é atualizado conforme minha evolução profissional.*
